@@ -264,5 +264,7 @@ bottom: 100px;
     align-items: center;
     flex-direction: column;
     gap: 35px;
-
+.features{
+  flex-direction: column;
+}
 }
